@@ -108,7 +108,7 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal
 ## 🤝 Let's Connect!
 
 - **Phone:** +91-7440800704
-- **Email:** nitjaitwar@gmail.com
+- **Email:** niteshjaitwar@gmail.com
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/niteshjaitwar/)
 - **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/nitesh_jaitwar/)
 
