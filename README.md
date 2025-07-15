@@ -7,7 +7,7 @@ Crafting robust, scalable, and elegant solutions using **Java, Spring Boot, and 
 
 ## 🎯 Objective
 
-A Java Developer with **3.9+ years of experience** in developing robust and efficient applications. Proficient in **Core Java, Object-Oriented Programming, Exception Handling, Multithreading, Spring, Spring Boot, Hibernate, JPA, Spring Security, JWT, Microservices**, and **Agile Methodology**. Seeking a challenging role to leverage my skills in software development and contribute to the success of projects, while continuously learning and growing in a collaborative team environment.
+A Java Developer with **3.10+ years of experience** in developing robust and efficient applications. Proficient in **Core Java, Object-Oriented Programming, Exception Handling, Multithreading, Spring, Spring Boot, Hibernate, JPA, Spring Security, JWT, Microservices**, and **Agile Methodology**. Seeking a challenging role to leverage my skills in software development and contribute to the success of projects, while continuously learning and growing in a collaborative team environment.
 
 ---
 
